@@ -1,0 +1,10 @@
+c:\users\jtwri\documents\visual studio 2017\Projects\GeoFencing\GeoFencing\bin\Debug\GeoFencing.exe.config
+c:\users\jtwri\documents\visual studio 2017\Projects\GeoFencing\GeoFencing\bin\Debug\GeoFencing.exe
+c:\users\jtwri\documents\visual studio 2017\Projects\GeoFencing\GeoFencing\bin\Debug\GeoFencing.pdb
+c:\users\jtwri\documents\visual studio 2017\Projects\GeoFencing\GeoFencing\obj\Debug\GeoFencing.csprojResolveAssemblyReference.cache
+c:\users\jtwri\documents\visual studio 2017\Projects\GeoFencing\GeoFencing\obj\Debug\GeoFencing.Form1.resources
+c:\users\jtwri\documents\visual studio 2017\Projects\GeoFencing\GeoFencing\obj\Debug\GeoFencing.Properties.Resources.resources
+c:\users\jtwri\documents\visual studio 2017\Projects\GeoFencing\GeoFencing\obj\Debug\GeoFencing.csproj.GenerateResource.Cache
+c:\users\jtwri\documents\visual studio 2017\Projects\GeoFencing\GeoFencing\obj\Debug\GeoFencing.csproj.CoreCompileInputs.cache
+c:\users\jtwri\documents\visual studio 2017\Projects\GeoFencing\GeoFencing\obj\Debug\GeoFencing.exe
+c:\users\jtwri\documents\visual studio 2017\Projects\GeoFencing\GeoFencing\obj\Debug\GeoFencing.pdb
