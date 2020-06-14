@@ -1,4 +1,4 @@
-﻿/*Authors: Mike Condino & James Wright
+﻿/*Authors: James Wright
  *Program: GeoFencing
  *Details: This program will allow you to set a poly of your choicing and will compare with a single point to see if that point is in the polygon.
  * the second half of this program validates whether a point is within the radius of a set point. 
@@ -37,10 +37,6 @@ namespace GeoFencing
 
         }
 
-        /*The First half was created by Mike This is validating the coordinates with the polygon. 
-         *
-         * */
-        
         //Validation for the polygon. 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -120,9 +116,6 @@ namespace GeoFencing
 
             return inside;
         }
-
-        /*The Second half was created by James. this validates a single point and determines whether a second point is within the radius of the first point. 
-         * */
 
         private void button2_Click(object sender, EventArgs e)
         {
